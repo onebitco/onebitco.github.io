@@ -1,0 +1,55 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+	font-family: $font-family-base;
+	font-size: $size-font-base;
+	color: $color-font-base;
+	background-color: $color-bg-base;
+	-webkit-text-size-adjust: 100%;
+	line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+dl, figure,
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+}
+img {
+	max-width: 100%;
+	vertical-align: middle;
+}
+a {
+	color: $color-font-base;
+	text-decoration: none;
+	&:hover {
+		color: $color-brand;
+	}
+}
+a[data-filetype="image"] {
+   text-decoration: none;
+}
+nav, aside {
+	ul, ol, li {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+	}
+}
+@mixin media-query($device-size) {
+    @media screen and (max-width: $device-size) {
+        @content;
+    }
+}
+@-webkit-keyframes fadein {
+	0% {-webkit-transform: translateY(40px);opacity: 0;}
+	100% {-webkit-transform: translateY(0px);opacity: 1;}
+}
+@keyframes fadein {
+	0% { transform: translateY(40px);opacity: 0;}
+	100% { transform: translateY(0px);opacity: 1;}
+}
