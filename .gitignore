@@ -1,0 +1,7 @@
+_site/
+_drafts/
+_posts/*-draft.md
+.DS_Store
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata

@@ -1,0 +1,11 @@
+---
+layout: default
+permalink: /bitcoin/
+---
+<ul>
+	{% for post in site.categories.bitcoin %}
+	<li>
+		<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2><time>{{ post.date | date: "%b %-d, %Y" }}</time>
+	</li>
+	{% endfor %}
+</ul>
