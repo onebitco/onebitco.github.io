@@ -1,12 +1,10 @@
 ---
 layout: default
 ---
-<ul>
-	{% for post in paginator.posts %}
-	<li>
-		<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2><time>{{ post.date | date: "%b %-d, %Y" }}</time>
-	</li>
-	{% endfor %}
+<ul class="list">{% for post in paginator.posts %}
+<li>
+ <h2><a href="{{ post.url | prepend: site.baseurl }}">"{{ post.title }}"</a></h2><time>{{ post.date | date: "%b %-d, %Y" }}</time>
+</li>{% endfor %}
 </ul>
 
 <div class="pagination">{% if paginator.previous_page %}

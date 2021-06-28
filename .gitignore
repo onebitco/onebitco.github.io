@@ -5,3 +5,6 @@ _posts/*-draft.md
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+_sass
+style.scss
+style.css.map
