@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Banksy Stock Market Guy Painting]({{ site.url }}/assets/image/sys/banksy.jpg)
+![Banksy Stock Market Guy Painting]({{ site.url }}/assets/img/sys/banksy.jpg)
 
 {% include author.html %}
 
