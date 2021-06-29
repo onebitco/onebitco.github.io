@@ -5,13 +5,11 @@ date:   2021-06-25 13:26:17 -0400
 categories: etc
 ---
 
-## 안주하지 않기
-
 Tools used: Github page with Jekyll<br>
-Theme: Lightning Ocpotus ver 0.1
+Theme: Lightning Octopus ver 0.1
 
 트위터의 한계를 보안해주는 대안으로 선택한 블로그. Medium 자동 푸쉬를 적용할 예정.<br>
-간편하교 무료인 Medium이나 [Substack](http://substack)을 사용하지 않은 이유는 일반 서비스는 발행시간 순서대로 나열할 수 밖에 없는 반면, 깃페이지는 내 마음대로 조작이 가능하기 때문.  하루 꼬박 보냈어야 하지만 일단 발행 후엔 편하게 사용 가능하기에 선택.
+간편하교 무료인 [Medium](http://medium.com)이나 [Substack](http://substack.com)을 사용하지 않은 이유는 일반 서비스는 발행시간 순서대로 나열할 수 밖에 없는 반면, 깃페이지는 내 마음대로 조작이 가능하기 때문.  하루 꼬박 보냈어야 하지만 일단 발행 후엔 편하게 사용 가능하기에 선택.
 
 <div class="tweet">
 <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true" style="width:300px;"><p lang="ko" dir="ltr">😂 😂 😂<br>Lightning Octopus 새 프로젝 이름이군요 두바이 어느 바닷가 파워플렌트</p>&mdash; OneBit 원빝 🟩⚡️ (@onebitgram) <a href="https://twitter.com/onebitgram/status/1408450647196848128?ref_src=twsrc%5Etfw">June 25, 2021</a></blockquote></div>

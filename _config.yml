@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: BitcoinOne 비트코인원
-email: twobitgram@gmail.com
+email: one@bitcoinone.net
 description: >-
   비트코인, 라이트닝네트워크, Umbrel 소식들과 자료들이 있습니다.
 baseurl: ""
