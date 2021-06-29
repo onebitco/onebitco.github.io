@@ -7,11 +7,11 @@
 <meta property="og:site_name" content="BitcoinOne 비트코인원">
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://onebitco.github.io{{ page.url }}">
+<meta property="og:url" content="http://bitcoinone.net{{ page.url }}">
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
 {% if page.featured %}<meta property="og:image" content="{{ site.home_url }}{{ page.featured }}">{% endif %}
 <link rel="stylesheet" href="{{ 'style.css?v=' | append: site.github.build_revision | relative_url }}">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-<link rel="shortcut icon" href="/assets/img/system/logo@2x.png" />
+<link rel="shortcut icon" href="/assets/img/sys/logo.png" />
 </head>
