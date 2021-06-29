@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ![Banksy Stock Market Guy Painting]({{ site.url }}/assets/img/sys/banksy.jpg)
+[Banksy @ Brooklyn, NY, 2018](https://www.banksy.co.uk/)
 
 {% include author.html %}
 
