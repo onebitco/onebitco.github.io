@@ -5,7 +5,7 @@ date:   2021-06-25 13:26:17 -0400
 categories: etc
 ---
 
-Tools used: Github page with Jekyll<br>
+Tools used: Github Page<br>
 Theme: Lightning Octopus ver 0.1
 
 트위터의 한계를 보안해주는 대안으로 선택한 블로그. Medium 자동 푸쉬를 적용할 예정.<br>
@@ -14,4 +14,9 @@ Theme: Lightning Octopus ver 0.1
 <div class="tweet">
 <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true" style="width:300px;"><p lang="ko" dir="ltr">😂 😂 😂<br>Lightning Octopus 새 프로젝 이름이군요 두바이 어느 바닷가 파워플렌트</p>&mdash; OneBit 원빝 🟩⚡️ (@onebitgram) <a href="https://twitter.com/onebitgram/status/1408450647196848128?ref_src=twsrc%5Etfw">June 25, 2021</a></blockquote></div>
 
-뜬금없는 테마의 이름은 번개문어.
+뜬금없는 테마, 블로그 겉옷의 이름은 다름아닌 번개문어.
+이름 아이디어에 영향을 주신 [@jakewoo12](https://twitter.com/jakewoo12) 님과 [@linewoo88](https://twitter.com/linewoo88) (그 중 첫번째 자아) 님께 한번 더 뜬금 없는 감사를.
+
+최근 트위터를 통해 감사한 분들이 많이 생겼는데 아무래도 포스트를 하나 만들어서 증정 해야할듯.
+
+개인적으로 Mou에 이은 [MacDown](https://macdown.uranusjr.com/) 이라는 앱을 마크다운용으로 오래간 사용해 왔는데 최근 [Atom](https://atom.io/) 에 Git 기능이 기본장착에다 마크다운 자동 프리뷰가 제공되어 이건 완벽한 조합이 아닐까 싶다.  글 발행이나 수정때 마다 iTerm 켜서 <code>git push</code> 생각하면 귀찮아지건만 Atom 이후론 글 발행의 설래임만이 느껴진다.
