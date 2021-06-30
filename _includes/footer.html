@@ -2,3 +2,25 @@
 <p>Copyright © since 2021.  All rights reserved.<br><a href="http://twitter.com/onebitgram">@onebitgram</a></p>
 </footer>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script>
+  function addLink() {
+
+      var selection = window.getSelection();
+      pagelink = ". 원본글: " + document.location.href;
+      copytext = selection + pagelink;
+
+      newdiv = document.createElement('div');
+
+      newdiv.style.position = 'absolute';
+      newdiv.style.left = '-99999px';
+
+      document.body.appendChild(newdiv);
+      newdiv.innerHTML = copytext;
+      selection.selectAllChildren(newdiv);
+
+      window.setTimeout(function () {
+          document.body.removeChild(newdiv);
+      }, 100);
+  }
+  document.addEventListener('copy', addLink);
+</script>
