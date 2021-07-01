@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Strike - 수수료 0의 혁신 (통쾌번역)"
+title:  "Strike - 수수료 0의 혁신 (번역)"
 date:   2021-07-01 16:9:12 -0400
 categories: bitcoin
 tags: strike twitter fee
