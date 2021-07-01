@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Strike - Near Zero Bitcoin fee 수수료 0"
+title:  "Strike - Bitcoin Tab 수수료 0의 혁신. (통쾌번역)"
 date:   2021-07-01 16:9:12 -0400
 categories: bitcoin
 tags: strike twitter fee
