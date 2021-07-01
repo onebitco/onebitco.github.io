@@ -6,11 +6,11 @@ categories: bitcoin
 tags: person congress
 ---
 
->For every transaction that we want blocked, there is another transaction we should celebrate for being unstoppable. Yes, there are some criminals making payments on the Bitcoin network because banks won't back them. There are also proud democracy activists in Belarus and anti-police violence protesters in Nigeria taking donations on the Bitcoin network because local banks won't back them.
+>"For every transaction that we want blocked, there is another transaction we should celebrate for being unstoppable. Yes, there are some criminals making payments on the Bitcoin network because banks won't back them. There are also proud democracy activists in Belarus and anti-police violence protesters in Nigeria taking donations on the Bitcoin network because local banks won't back them.
 >
 >Nonprofits Basel and feminist coalition in Nigeria raise millions of dollars in bitcoin donations last year, donations they were forbidden from accepting by a corrupt or otherwise uncaring banking sector in their respective countries.
 >
->In America we don't always agree but no matter what we are tolerant and expect everyone to have the opportunity to stand up and fight for their own vision of a good. Crypto innovation embodies the aspiration. It's rough around the edges but hold some values above all. Every node is equal. No one's voice should be censored. And work, rather than privilege, is what counts in consensus.
+>In America we don't always agree but no matter what we are tolerant and expect everyone to have the opportunity to stand up and fight for their own vision of a good. Crypto innovation embodies the aspiration. It's rough around the edges but hold some values above all. Every node is equal. No one's voice should be censored. And work, rather than privilege, is what counts in consensus."
 >
 >Peter Van Valkenburgh at the Congress
 
@@ -18,7 +18,7 @@ tags: person congress
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A must-watch U.S House of Representatives testimony on the ethos and strength of <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> by <a href="https://twitter.com/valkenburgh?ref_src=twsrc%5Etfw">@Valkenburgh</a> today. <a href="https://t.co/q5aK93ovDi">pic.twitter.com/q5aK93ovDi</a></p>&mdash; Documenting Bitcoin 📄 (@DocumentingBTC) <a href="https://twitter.com/DocumentingBTC/status/1410250679105605642?ref_src=twsrc%5Etfw">June 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-Peter Van Valkenburgh 가 오늘 미국 하원의원들 앞에서 나눈 발언을 일부 발췌하여 번역합니다.
+Peter Van Valkenburgh 가 오늘 미국 하원의원들 앞에서 나눈 증언을 일부 발췌하여 번역합니다.
 
 "우리가 차단하기 원하는 거래만큼이나 차단되지 못했기에 축하해야 할 거래들이 있습니다. 그렇습니다, 은행들에게 거부당했기에 몇몇 범죄자들이 비트코인 네트워크를 사용했습니다. 하지만 은행들에게 거부당했기에 벨라루스의 폭력 경찰을 반대하는 자랑스러운 민주주의 시위대가 비트코인 네트워크를 통하여 기부를 받았습니다.
 
