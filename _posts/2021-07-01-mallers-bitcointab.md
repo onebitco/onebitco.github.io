@@ -83,12 +83,12 @@ bitcoin.strike.me 를 통해 대기자 명단에 올리면 되고 많이 추천 
 
 ### 감사
 이게 다고 곧 또 소식을 올릴거야.  앞으로 Strike에 생길게 많아.
-Bitcoin Tab 전체공개
-Pay me in bitcoin 월급을 비트로 받는 서비스
-Strike EU
-Strike API
-Strike Card 은행카드.
-More Strike rollout in the developing world 개발도상국에 Strike계속 서비스를 넓히기
+* Bitcoin Tab 전체공개
+* Pay me in bitcoin 월급을 비트로 받는 서비스
+* Strike EU
+* Strike API
+* Strike Card 은행카드.
+* 개발도상국에 Strike 서비스를 계속 넓히기
 
 이건 연습이 아냐.  우리의 미션은 모든사람의 제정적 자유이고 전세계 모두가 그걸 성취할 때 까지 멈추지 않을꺼야.
 
