@@ -13,7 +13,7 @@ Jack Mallers의 인터뷰와 성격을 감안해서 어투를 바꿨습니다.<b
 그리고 글을 읽으며 심장을 벌렁벌렁 뛰게 해준 Jack에게 고맙다고 하고 싶습니다.
 Thanks Jack.  I really do.
 
-Jack Mallers 원문
+Jack Mallers 원문<br>
 <https://jimmymow.medium.com/announcing-the-bitcoin-tab-133fffc5f668>
 
 ===
@@ -71,7 +71,7 @@ Strike에선 비트코인 네트워크와 라이트닝 네트워크는 가장 �
 아주 엘레강스하게 만들었어.  Bitcoin Tab 이 생겼고  비트코인관련은 거기 다 담겼지.
 
 <div class="video">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=64CF_ZKgXug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/64CF_ZKgXug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 숨겨진 요금도 없고 쉿코인도 없고 잡음도 없어. 원래 그래야했던 것처럼말야.
