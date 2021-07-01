@@ -17,7 +17,7 @@ Jack Mallers 원문<br>
 <https://jimmymow.medium.com/announcing-the-bitcoin-tab-133fffc5f668>
 
 ===
-# Bitcoin Tab 을 소개합니다
+# Bitcoin Tab 소개
 
 헤이 브라더. 오늘 모두에게 Bitcoin Tab을 소개하려해.  오늘부터 [Strike](http://strike.me/) 에서 가장 싸고 가장 쉽게 비트코인을 구매할 수 있다구!
 
