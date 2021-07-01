@@ -10,6 +10,9 @@ Jack Mallers의 인터뷰와 성격을 감안해서 어투를 바꿨습니다.<b
 원본 의미는 그대로 전달될거라 생각합니다.<br>
 아니, 적고보니 오히려 이게 원문과 일치하다 봅니다.
 
+그리고 글을 읽으며 심장을 벌렁벌렁 뛰게 해준 Jack에게 고맙다고 하고 싶습니다.
+Thanks Jack.  I really do.
+
 Jack Mallers 원문
 <https://jimmymow.medium.com/announcing-the-bitcoin-tab-133fffc5f668>
 
