@@ -97,7 +97,7 @@ tags: person twitter
 
 @OverHuman 👍❤️ 좋아요 감사합니다
 
-@Renohp - 핑크곰
+@Renohp 핑크곰님 - 💓 댓글센스가 애플주식급이신
 
 @Renohq - 큐님의 따뜻함에 자주 감탄합니다
 
