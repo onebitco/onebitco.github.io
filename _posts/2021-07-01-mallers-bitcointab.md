@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Strike - Bitcoin Tab 수수료 0의 혁신. (통쾌번역)"
+title:  "Strike - 수수료 0의 혁신 (통쾌번역)"
 date:   2021-07-01 16:9:12 -0400
 categories: bitcoin
 tags: strike twitter fee
@@ -17,6 +17,7 @@ Jack Mallers 원문<br>
 <https://jimmymow.medium.com/announcing-the-bitcoin-tab-133fffc5f668>
 
 ===
+# Bitcoin Tab 을 소개합니다
 
 헤이 브라더. 오늘 모두에게 Bitcoin Tab을 소개하려해.  오늘부터 Strike 에서 가장 싸고 가장 쉽게 비트코인을 구매할 수 있다구!
 
