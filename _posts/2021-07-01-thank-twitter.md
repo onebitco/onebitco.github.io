@@ -65,7 +65,7 @@ tags: person twitter
 
 @junoi 요즘뜸하시지만 기억합니다
 
-@Laser EYE Hodler 문득 보이는 빨간레이저 멋진 날개짓 기대합니다 감사합니다
+@Laser EYE Hodler 문득 보이는 빨간레이저. 멋진 날개짓 기대합니다 감사합니다
 
 @Lion 형님 따듯해집니다 🥰 인연감사합니다
 
