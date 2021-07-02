@@ -67,7 +67,7 @@ tags: person twitter
 
 @Laser EYE Hodler 문득 보이는 빨간레이저. 멋진 날개짓 기대합니다 감사합니다
 
-@Lion 형님 따듯해집니다 🥰 인연감사합니다
+@Lion 라이언형님 따듯해집니다 🥰 인연감사합니다
 
 @Michael Y 🇵🇹 📷 🏞 thank you 인연감사합니다
 
