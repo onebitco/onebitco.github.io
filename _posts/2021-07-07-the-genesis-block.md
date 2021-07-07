@@ -2,7 +2,7 @@
 layout: post
 title:  "최초의 비트코인 블록, Genesis 제네시스블록"
 date:   2021-07-07 16:35:17 -0400
-categories: bitcoin, reference
+categories: bitcoin reference
 tags: block
 ---
 
