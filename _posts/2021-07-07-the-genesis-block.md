@@ -26,7 +26,7 @@ tags: block
 
 ![](http://wiki.hash.kr/images/thumb/4/46/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4_%EB%B8%94%EB%A1%9D.png/350px-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4_%EB%B8%94%EB%A1%9D.png)
 
-### 신문
+### $250,000 신문
 해당 제목을 실은 1월 3일자 더타임즈 신문은 시간이 지날수록 비트코인의 인기와 더불어 희소가치 또한 높아져서 현재 검증되어 남아있는 8부는 <https://www.thetimes03jan2009.com/> 을 통하여 소유자로부터 직접 거래가 가능한데, 이 글이 발행되는 2021년 가격은 최소 $250,000, 최대 $1,300,000 입니다.  워낙 코인계에선 중요한 역사적 인쇄물이기에 복사본들도 거래가 되고 있으며 위의 웹사이트에서는 검증서비스까지 제공하고 있습니다.
 
 ![증서와 신문이 옆에 놓인 사진](https://www.thetimes03jan2009.com/wp-content/uploads/2015/03/the-times-jan-03-2009.jpg)
