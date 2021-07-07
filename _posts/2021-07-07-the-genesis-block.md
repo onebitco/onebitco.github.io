@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bitcoin Genesis Block 최초의 비트코인 제네시스블록"
+title:  "최초의 비트코인 블록, Genesis 제네시스블록"
 date:   2021-07-07 16:35:17 -0400
 categories: bitcoin, reference
 tags: block
@@ -15,7 +15,9 @@ tags: block
 </div>
 
 ### Coinbase
-지금은 <code>$COIN</code> 코인베이스 회사가 더욱 유명하지만 사실 coinbase는 블록의 첫번째 거래를 일컫는 것으로 블록을 생성한 채굴자가 첫번째 거래로 채굴의 보상을 자신의 주소로 보내는 기록과 수수료등이 포함됩니다.  사토시나카모토는 제네시스블록의 coinbase에 첫 50비트코인을 보내는 정보를 넣으며 이하의 메세지를 첨부하는데 바로 블록이 탄생한 동일한 날에 발행된 영국의 The Times 신문 1면의 해드라인입니다.
+지금은 <code>$COIN</code> 코인베이스 회사가 더욱 유명하지만 사실 coinbase는 블록의 첫번째 거래를 일컫는 것으로 블록을 생성한 채굴자가 첫번째 거래로 채굴의 보상을 자신의 주소로 보내는 기록과 수수료등이 포함됩니다.  사토시나카모토는 제네시스블록의 coinbase에 첫 50비트코인을 보내는 정보를 넣으며 이하의 메세지를 첨부하는데, 바로 블록이 탄생한 날과 동일한 날에 발행된 영국의 The Times 신문 1면의 해드라인입니다.
+
+![](https://www.thetimes03jan2009.com/wp-content/uploads/2015/03/genesis-block-newspaper-bitcoin.jpg)
 
 >"Chancellor on brink of second bailout for banks"<br>
 >"은행들의 두번째 구제금융을 앞두고 있는 (영국)재무장관"
@@ -32,7 +34,7 @@ tags: block
 
 
 ### 최초의 비트코인
-제네시스블록의 생성과 함께 보상으로 50 비트코인이 <code>1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa</code> 이곳으로 보내졌으며 의도적이었는지는 모르겠으나 코드상 이 50 비트코인을 글로벌 거래내역에 포함되지 않으면서 결과적으론 <code>1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa</code> 안에 영원히 갇힌 비트코인이 되었습니다. 물론 사토시나카모토 외엔 지갑의 접근조차 불가능 하겠지만 말입니다.
+최초의 비트코인은 제네시스블록의 생성과 함께 보상으로 50개의 비트코인이 <code>1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa</code> 이곳으로 보내졌으며 의도적이었는지는 모르겠으나 코드상 이 50 비트코인을 글로벌 거래내역에 포함되지 않으면서 결과적으론 <code>1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa</code> 안에 영원히 갇힌 비트코인이 되었습니다. 물론 사토시나카모토 외엔 지갑의 접근조차 불가능 하겠지만 말입니다.
 
 
 ### 제네시스와 두번째 블록과의 빈 시간
@@ -52,5 +54,13 @@ tags: block
 제네시스블록의 해쉬는 <code>000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f</code>
 로 초창기 생성된 블록보다 0이 두개가 더 붙어있습니다.
 
+### 기타
+제네시스블락 외에도 채굴자들이 특별 메세지를 여기 저기 넣어 놓았는데 [블록 666,666](https://blockchair.com/bitcoin/block/629999)에는 ""선함으로 악을 이기라""는 성경구절도 볼 수 있고,
+![](https://i.ibb.co/ZW7w8j3/144be65a-3eae-4785-a44c-a5224f1d1eb5.jpg)
+
+
+
+최근 엘살바도르에서 비트코인의 법정화폐소식의 신문 해드라인을 넣기도 하였습니다.
+![](https://i.ibb.co/mNJFnj6/234234123.png)
 
 [^1]: https://en.bitcoin.it/wiki/Genesis_block
