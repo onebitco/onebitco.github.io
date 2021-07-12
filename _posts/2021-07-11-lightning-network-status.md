@@ -20,5 +20,10 @@ tags: channels
 
 ![](https://i.ibb.co/JkGgxQT/Screen-Shot-3.jpg)
 
+### 라이트닝 노드
+최근 라이트닝 네트워크를 셋업 후 노드에서 직접 채널을 오픈하고 채널을 통한 페이먼트를 돌려보고 몇몇 분들에게 Sats 를 보내드렸는데 먼저 굉장한 속도와 편리함을 경험할 수 있었습니다.  물론 저는 노드를 직접 셋업하며 진행한 작업이지만 핸드폰에 앱을 설치하고 앱을 통하여 주고받는 방식은 더욱 간편했습니다.
+
+![](https://i.ibb.co/wSbpxH9/IMG-3181.jpg)
+
 
 [^1]:<http://wiki.hash.kr/index.php/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%8B%9D_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC#cite_note-.ED.8A.B9.EC.A7.95-4>
