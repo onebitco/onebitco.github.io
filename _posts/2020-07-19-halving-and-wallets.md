@@ -17,7 +17,7 @@ S2F 이외에도 [무지개차트](https://www.blockchaincenter.net/bitcoin-rain
 ### Growth After the halving (log scale)
 위 둘의 차트와는 다르게 각각의 반감기 주기가 같은 점을 이용하여 각 사이클을 비교한 그래프를 보신적이 있으실 겁니다.  지금은 당연한듯 보는 이 그래프는 반감기를 기준점으로 매번 비트코인이 우상향을 크게 이루는걸 보여주는데, 아마 많은 사람들의 궁금증은 이번에도 이전과 같은 트랜드를 그릴 것인가 아니면 우리는 이미 고점을 찍은 것인가 일것입니다.
 
-![](https://i.ibb.co/cL3F4Yw/Screen-Shot-13.jpg)
+![](https://i.ibb.co/6wfjHP0/Screen-Shot-6.jpg)
 
 여기서 몇가지를 볼 수 있습니다.  
 * 언급한데로 비트는 반감기이후 급성장을 이룹니다.
