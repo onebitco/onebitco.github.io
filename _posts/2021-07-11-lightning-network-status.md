@@ -19,6 +19,7 @@ tags: channels
 7/19
 ![](https://i.ibb.co/dGPwjxL/Screen-Shot-17.jpg)
 
+data: <https://bitcoinvisuals.com/lightning>
 ![](https://i.ibb.co/wSmkt7Q/Screen-Shot-18.jpg)
 
 ### 라이트닝 노드
