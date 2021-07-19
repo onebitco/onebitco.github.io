@@ -19,9 +19,7 @@ tags: channels
 7/19
 ![](https://i.ibb.co/dGPwjxL/Screen-Shot-17.jpg)
 
-![](https://i.ibb.co/JkGgxQT/Screen-Shot-2.jpg)
-
-![](https://i.ibb.co/JkGgxQT/Screen-Shot-3.jpg)
+![](https://i.ibb.co/wSmkt7Q/Screen-Shot-18.jpg)
 
 ### 라이트닝 노드
 최근 [라이트닝 네트워크⚡️를 셋업](https://1ml.com/node/0246344c2ff83905bf5b9847f50385f85834df595faedb3983bb97112dd6b8c52d) 후 노드에서 직접 채널을 오픈하고 채널을 통한 페이먼트를 돌려보고 몇몇 분들에게 Sats 를 보내드렸는데 먼저 굉장한 속도와 편리함을 경험할 수 있었습니다.  물론 저는 노드를 직접 셋업하며 진행한 작업이지만 핸드폰에 앱을 설치하고 앱을 통하여 주고받는 방식은 더욱 간편했습니다.
