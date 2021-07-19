@@ -15,7 +15,7 @@ permalink: /about/
 
 ⚡️ >> [1ml.com](https://1ml.com/node/0246344c2ff83905bf5b9847f50385f85834df595faedb3983bb97112dd6b8c52d)
 
-☕️ >> <https://strike.me/1bit>
+☕️ >> [strike.me/1bit](https://strike.me/1bit)
 
 🏁 시작 >> [Intro - never settle](https://bitcoinone.net/etc/2021/what.html)<br>
 🙇🏻‍ 감사 >> [Thank You Isn't Enough. 감사합니다](https://bitcoinone.net/etc/2021/thank-twitter.html)
