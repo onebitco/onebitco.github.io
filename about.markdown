@@ -18,4 +18,4 @@ permalink: /about/
 ☕️ >> <https://strike.me/1bit>
 
 🏁 시작 >> [Intro - never settle](https://bitcoinone.net/etc/2021/what.html)<br>
-🙇🏻‍♂️ 감사 >> [Thank You Isn't Enough. 감사합니다](https://bitcoinone.net/etc/2021/thank-twitter.html)
+🙇🏻‍ 감사 >> [Thank You Isn't Enough. 감사합니다](https://bitcoinone.net/etc/2021/thank-twitter.html)
