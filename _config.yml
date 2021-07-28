@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BitcoinOne 비트코인원
+title: BitcoinOne.net 비트코인, 라이트닝네트워크
 email: one@bitcoinone.net
 description: >-
-  비트코인, 라이트닝네트워크, Umbrel 소식들과 자료들이 있습니다.
+  비트코인 Bitcoin, 라이트닝네트워크 Lightning Network/Node, Umbrel 소식들과 자료들이 있습니다.
 baseurl: ""
 url: "http://bitcoinone.net"
 twitter_username: onebitgram
