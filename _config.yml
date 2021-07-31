@@ -35,6 +35,7 @@ permalink: "/:categories/:year/:title:output_ext"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
