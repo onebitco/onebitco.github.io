@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "6억에 거래된 크립토펑크 NFT"
-date:   2021-07-11 23:10:10 -0400
+date:   2021-08-2 19:10:10 -0400
 categories: etc
 tags: cryptopunks
 ---
