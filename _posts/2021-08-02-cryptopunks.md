@@ -42,7 +42,6 @@ FazeBanks 는 최근 트윗에서 자신의 CryptoPunks #5827 이 팔렸다며 �
 
 컴퓨터에서 존재하는 24x24 크기의 이미지가 몇십억원이라고 고개를 갸우뚱 할 수 있으나 사이버 세계에서 점점 더 시간을 많이 보내는 현세대를 생각할 때 자신의 만족과 과시를 위해 사이버세계에 투자하는 것은 그리 어려운 선택이 아닐것이다.
 
-https://twitter.com/tesla_is_future/status/1421850580151013379
 <div class="tweet">
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="ko" dir="ltr">그냥 그림부터 봤다면 뭔 게임캐릭터지 했을거 같은데... 가격부터 보고 내려와서 한참 의미를 찾았네요. <br>그냥 누군가가 만들었고, 그냥 누군가가 6억에 샀고. 만든자도 구매한자도 의미를 부여했을수도, 안했을수도. <a href="https://t.co/bIGVohC0Ur">pic.twitter.com/bIGVohC0Ur</a></p>&mdash; 멍멍약사 (@TESLA_is_FUTURE) <a href="https://twitter.com/TESLA_is_FUTURE/status/1421850580151013379?ref_src=twsrc%5Etfw">August 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
