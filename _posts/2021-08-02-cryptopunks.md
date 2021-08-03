@@ -22,7 +22,7 @@ FazeBanks 는 최근 트윗에서 자신의 CryptoPunks #5827 이 팔렸다며 �
 ![](https://i.ibb.co/mFwK33y/punk-variety-2x.png)
 
 #### CryptoPunks Characters
-[CryptoPunks](https://www.larvalabs.com/cryptopunks) 케릭터 그림들은 2017년 최초 NFT 프로젝트중의 하나로써 컴퓨터 알고리즘을 통해 **[1만개의 각각의 유니크한 케릭터들](https://github.com/larvalabs/cryptopunks/blob/master/punks.png)**이 24x24 픽셀 아바타로 형성되어 배포되었다.  크립토펑크 케릭터들은 2명이서 운영하는 Larva Labs 회사에서 영국의 '사이버펑크'들의 영향을 받아 제작되었으며 CryptoArt Movement의 시발점으로 알려져 있다. 초창기엔 이더리움 지갑이 있는 사람들에게 무료였으나 이제는 Larva Labs에서 고가의 가격으로 거래되고 있다.
+[CryptoPunks](https://www.larvalabs.com/cryptopunks) 케릭터 그림들은 2017년 초창기 NFT 프로젝트중의 하나로써 컴퓨터 알고리즘을 통해 **[1만개의 각각의 유니크한 케릭터들](https://github.com/larvalabs/cryptopunks/blob/master/punks.png)**이 24x24 픽셀 아바타로 형성되어 배포되었다.  크립토펑크 케릭터들은 2명이서 운영하는 Larva Labs 회사에서 영국의 '사이버펑크'들의 영향을 받아 제작되었으며 CryptoArt Movement의 시발점으로 알려져 있다. 초창기엔 이더리움 지갑이 있는 사람들에게 무료였으나 이제는 Larva Labs에서 고가의 가격으로 거래되고 있다.
 
 ![](https://i.ibb.co/QNj81vf/c8e642f9688ff8f5184bf36e7abe5a92.jpg)
 
