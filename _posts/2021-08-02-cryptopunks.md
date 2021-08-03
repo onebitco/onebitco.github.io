@@ -36,7 +36,7 @@ FazeBanks 는 최근 트윗에서 자신의 CryptoPunks #5827 이 팔렸다며 �
 * 지난 12개월 동안 11,177 번의 거래가 이루어졌다.
 * 지금까지 거래된 총 액수는 264.56k, 약 $696M 이다.
 
-![](https://i.ibb.co/h7h61Vw/72456-3.jpg)
+[![](https://i.ibb.co/h7h61Vw/72456-3.jpg)](https://github.com/larvalabs/cryptopunks/blob/master/punks.png)
 
 #### Movement?
 
