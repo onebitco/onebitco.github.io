@@ -49,6 +49,6 @@ FazeBanks 는 최근 트윗에서 자신의 CryptoPunks #5827 이 팔렸다며 �
 </div>
 
 크립토펑크의 영감을 받아 만들어 보았다.<br>
-Non Cryptopunk #10001 Asian Geek
+Non Cryptopunk #10001 Asian Mustache Guy With Glasses
 
 ![](https://i.ibb.co/hfz3m7s/cyberpunk.png)
