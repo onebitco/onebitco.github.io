@@ -15,7 +15,7 @@ tags: block
 </div>
 
 ### Coinbase
-지금은 <code>$COIN</code> 코인베이스 회사가 더욱 유명하지만 사실 coinbase는 채굴 보상으로 주어지는 코인을 말하며 Coinbase Transaction은 블록의 첫번째 거래로 블록을 생성한 채굴자가 채굴의 보상을 자신의 주소로 보내는 기록과 수수료등이 포함됩니다.  사토시나카모토는 제네시스블록의 coinbase transaction 에 첫 50 비트코인을 보내는 정보를 넣으며 이하의 메세지를 첨부하는데, 바로 블록이 탄생한 날과 동일한 날에 발행된 영국의 The Times 신문 1면의 해드라인입니다.
+지금은 <code>$COIN</code> 코인베이스 회사가 더욱 유명하지만 사실 coinbase는 채굴 보상으로 주어지는 코인을 말하며 Coinbase Transaction은 블록의 첫번째 거래로 블록을 생성한 채굴자가 채굴의 보상을 자신의 주소로 보내는 기록과 수수료등을 포함합니다.  사토시나카모토는 제네시스블록의 coinbase transaction 에 첫 50 비트코인을 보내는 정보를 넣으며 이하의 메세지를 첨부하는데, 바로 블록이 탄생한 날과 동일한 날에 발행된 영국의 The Times 신문 1면의 해드라인입니다.
 
 ![](https://www.thetimes03jan2009.com/wp-content/uploads/2015/03/genesis-block-newspaper-bitcoin.jpg)
 
