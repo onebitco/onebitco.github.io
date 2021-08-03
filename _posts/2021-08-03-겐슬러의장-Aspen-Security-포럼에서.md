@@ -5,7 +5,7 @@ date:   2021-08-03 15:30:10 -0400
 categories: bitcoin
 tags: gensler, sec
 ---
-2021년 8월 3일에 있었던 Gary Gensler 갠슬러 SEC 의장이 Aspen Security 포럼에서 나누었던 연설 전문을 Papago 를 이용해서 번역해 보았습니다.  전문을 읽고 자동번역과 비교하며 오류와 어색한 표현들을 수정하였습니다.  번역의 오류가 발견되면 [@onebitgram](https://twitter.com/onebitgram) 디엠으로 알려주시면 수정하겠습니다.
+2021년 8월 3일에 있었던 Gary Gensler 갠슬러 SEC 의장이 Aspen Security 포럼에서 나눈 연설 전문을 Papago 를 이용해서 번역해 보았습니다.  전문을 읽고 자동번역과 비교하며 오류와 어색한 표현들을 수정하였습니다.  번역의 오류가 발견되면 [@onebitgram](https://twitter.com/onebitgram) 디엠으로 알려주시면 수정하겠습니다.
 
 연설전문 <https://www.sec.gov/news/public-statement/gensler-aspen-security-forum-2021-08-03>
 
