@@ -9,7 +9,7 @@ tags: cryptopunks
 ## cryptopunks
 
 최근 트위터를 퉁해 6억에 팔린 NFT 픽셀아트를 소개했다.
-FazeBanks 는 최근 트윗에서 자신의 CryptoPunks #5827 이 팔렸다며 인생이 뒤집어 졌다 남겼다.
+FazeBanks 는 최근 트윗에서 자신의 CryptoPunks #5827 이 $584,752에 팔렸다며 인생이 뒤집어졌다 남겼다.
 
 <div class="tweet">
 
