@@ -139,3 +139,15 @@ Here we go!
 이제 상원 통과를 마치면 하원으로 가서 하원에서 토론과 투표를 거쳐 수정안이나 반대가 되면 상원으로 오게되는데 그 때 다시 투표를 거쳐서 통과되면 대통령에게 전달되서 싸인하면 법으로 인정되어 2023년에 시작될겁니다.
 
 이곳에서 계속 업데이트 하겠습니다.
+
+### 하원 U.S. House of Representative
+
+<div class="tweet">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I, along with bipartisan Blockchain Caucus co-chairs <a href="https://twitter.com/RepDarrenSoto?ref_src=twsrc%5Etfw">@RepDarrenSoto</a>, <a href="https://twitter.com/RepDavid?ref_src=twsrc%5Etfw">@RepDavid</a>, and <a href="https://twitter.com/RepBillFoster?ref_src=twsrc%5Etfw">@RepBillFoster</a> sent a letter to every single Representative in the House raising concerns about the Senate infrastructure bill being paid for by our crypto industry. <a href="https://t.co/MzsEmBbosr">pic.twitter.com/MzsEmBbosr</a></p>&mdash; Tom Emmer (@RepTomEmmer) <a href="https://twitter.com/RepTomEmmer/status/1424845416697323522?ref_src=twsrc%5Etfw">August 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+이미 하원쪽에서 움직이고 있습니다.
+Blockchain Caucus 에서 서명을 내어 모든 하원들에게 전달한다고 밝혔습니다.  개발자들, 채굴및지분자들과 라이트닝노드를 제외시켜야한다며 이는 Privacy 프라이버시법 위반인지도 보아야한다고 했네요. 
+
+몇달 안에 윤곽이 나오긴 힘들겁니다. 여유를 갖고 지켜봐야겠습니다.
+긴 여정이 되겠습니다.
