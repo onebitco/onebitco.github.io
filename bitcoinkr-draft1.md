@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /bitcoinkr-draft1/
 ---
 ## 비트코인 알려주세요
