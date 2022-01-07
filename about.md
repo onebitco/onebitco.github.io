@@ -20,8 +20,8 @@ permalink: /👨🏻/
 저에게 encrypt 암호화 된 우편을 보내시려면 이하의 공개키를 사용하시면됩니다.
 
 
-<div style="font-size: 0.9em;">
------BEGIN PGP PUBLIC KEY BLOCK-----
+<div style="font-size: 0.8em;padding:1em;background:gray;color:black;">
+-----BEGIN PGP PUBLIC KEY BLOCK-----<br><br>
 
 xsDNBGHXes4BDADd4g3qDzAQGNJeWUlRVp3NUle6RDRzmgo25L2KFaFs+2RpFw06
 ZaLZJ/+TXMmiizsxXTrskeePpTVArflNyNEq4v8ZM26v3IgwgyAn6ARKr3Zrx9YB
@@ -59,8 +59,8 @@ eu6HcoABZ+UhpezVLIBrzUEmR742pnJNH75TF2iYBDloz8ky4nz5i+ro9XqHJE80
 eomQsWehe9AFGW2uk2Ra6PYSTsn4sCOs2nemppHj6sxaT7qLnGOSWVPC/aK6keE+
 M7gLtPhfDqOBkrJi8ENRUSWGa+OpMRqZfgqXbMELAJ+0uuDQkaD8QIhg0xsZkNex
 pVKLYoSZzqpJFKCwLRXdy8+A/xAtPkPgfrsDANBMmhFqGBdYEzUMTwak1O/m0y6V
-qjcO9o4k
-=c+jo
+qjcO9o4k<br>
+=c+jo<br>
 -----END PGP PUBLIC KEY BLOCK-----
 
 </div>
