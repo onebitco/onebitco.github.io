@@ -18,3 +18,5 @@ permalink: /👨🏻/
 
 🔑 >> OneBit's Public Key<br>
 저에게 encrypt 암호화 된 우편을 보내시려면 이하의 공개키를 사용하시면됩니다.
+
+[🌏 OneBit's Public Key File](https://bitcoinone.net/OneBit.asc)
