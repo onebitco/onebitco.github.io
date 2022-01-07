@@ -19,9 +19,9 @@ permalink: /👨🏻/
 🔑 >> OneBit's Public Key
 저에게 encrypt 암호화 된 우편을 보내시려면 이하의 공개키를 사용하시면됩니다.
 
-<code>
------BEGIN PGP PUBLIC KEY BLOCK-----
 
+>-----BEGIN PGP PUBLIC KEY BLOCK-----
+>
 xsDNBGHXes4BDADd4g3qDzAQGNJeWUlRVp3NUle6RDRzmgo25L2KFaFs+2RpFw06
 ZaLZJ/+TXMmiizsxXTrskeePpTVArflNyNEq4v8ZM26v3IgwgyAn6ARKr3Zrx9YB
 i9lSrU0Sz8OewB3G7W25SjYGEPJU3gS/m39WAmWmL6Bzzmyy3W6d8dm7bGCMDBOc
@@ -61,4 +61,4 @@ pVKLYoSZzqpJFKCwLRXdy8+A/xAtPkPgfrsDANBMmhFqGBdYEzUMTwak1O/m0y6V
 qjcO9o4k
 =c+jo
 -----END PGP PUBLIC KEY BLOCK-----
-</code>
+>
