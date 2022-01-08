@@ -16,5 +16,5 @@ permalink: /👨🏻/
 🙇🏻‍ 감사 >> [Thank You Isn't Enough. 감사합니다](https://bitcoinone.net/etc/2021/thank-twitter.html)
 
 
-🔑 >> OneBit's PGP Fingerprint<br>
+🔑 >> PGP Fingerprint<br>
 9C4E FFB4 24D6 1B66 7CAA  73F4 C990 F8CE 764D B3D5
