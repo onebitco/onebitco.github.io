@@ -16,7 +16,5 @@ permalink: /👨🏻/
 🙇🏻‍ 감사 >> [Thank You Isn't Enough. 감사합니다](https://bitcoinone.net/etc/2021/thank-twitter.html)
 
 
-🔑 >> OneBit's Public Key<br>
-저에게 encrypt 암호화 된 우편을 보내시려면 이하의 공개키를 사용하시면됩니다.
-
-[🌏 OneBit's Public Key File](https://bitcoinone.net/OneBit.asc)
+🔑 >> OneBit's PGP Fingerprint<br>
+9C4E FFB4 24D6 1B66 7CAA  73F4 C990 F8CE 764D B3D5
